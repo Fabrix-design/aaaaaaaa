@@ -129,3 +129,20 @@
 [03:19:28] [Server thread/INFO]: [Not Secure] <troll_face300> si
 [03:20:13] [Server thread/INFO]: [Not Secure] <troll_face300> hola
 [03:20:22] [Server thread/INFO]: [Not Secure] <troll_face300> a
+[03:20:35] [Server thread/INFO]: [Not Secure] <troll_face300> 20
+[03:20:40] [Server thread/INFO]: DaVIcHoz21 lost connection: Disconnected
+[03:20:40] [Server thread/INFO]: DaVIcHoz21 left the game
+[03:20:42] [Server thread/INFO]: [Not Secure] <troll_face300> ya
+[03:24:04] [Server thread/INFO]: troll_face300 lost connection: Disconnected
+[03:24:04] [Server thread/INFO]: troll_face300 left the game
+[03:24:17] [Server thread/INFO]: Stopping the server
+[03:24:17] [Server thread/INFO]: Stopping server
+[03:24:17] [Server thread/INFO]: Saving players
+[03:24:17] [Server thread/INFO]: Saving worlds
+[03:24:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:24:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:24:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:24:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:24:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:24:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:24:17] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
