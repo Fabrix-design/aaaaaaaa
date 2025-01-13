@@ -4154,9 +4154,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+  "minecraft:adventure/trim_with_any_armor_pattern": {
     "criteria": {
-      "has_copper_ore": "2025-01-13 03:11:51 +0000"
+      "armor_trimmed_minecraft:flow_armor_trim_smithing_template_smithing_trim": "2025-01-13 02:52:43 +0000"
     },
     "done": true
   },
@@ -4166,21 +4166,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
-    "criteria": {
-      "has_copper_ore": "2025-01-13 03:11:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-01-13 02:58:32 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/trim_with_any_armor_pattern": {
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
     "criteria": {
-      "armor_trimmed_minecraft:flow_armor_trim_smithing_template_smithing_trim": "2025-01-13 02:52:43 +0000"
+      "has_copper_ore": "2025-01-13 03:11:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-01-13 03:11:51 +0000"
     },
     "done": true
   },
