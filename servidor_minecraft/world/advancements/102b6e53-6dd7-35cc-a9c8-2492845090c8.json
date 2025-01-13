@@ -287,6 +287,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2024-12-06 23:38:15 +0000",
+      "golden_apple": "2025-01-13 03:07:29 +0000",
       "rotten_flesh": "2024-12-09 14:42:57 +0000",
       "cookie": "2025-01-11 02:00:26 +0000",
       "enchanted_golden_apple": "2025-01-10 21:16:50 +0000",
@@ -466,6 +467,7 @@
       "minecraft:piglin_brute": "2025-01-12 21:54:39 +0000",
       "minecraft:creeper": "2024-12-08 18:32:14 +0000",
       "minecraft:slime": "2024-12-07 18:27:23 +0000",
+      "minecraft:evoker": "2025-01-13 03:07:50 +0000",
       "minecraft:zombified_piglin": "2025-01-11 19:19:42 +0000",
       "minecraft:witch": "2025-01-08 22:20:57 +0000",
       "minecraft:wither_skeleton": "2025-01-12 02:11:38 +0000",
@@ -3438,9 +3440,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-13 02:58:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-01-13 02:46:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-13 02:58:54 +0000"
     },
     "done": true
   },
