@@ -1,140 +1,40 @@
-[19:28:14] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
-[19:28:15] [main/INFO]: Loading 4 mods:
+[22:19:20] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
+[22:19:20] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.21.1
-[19:28:15] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/aaaaaaaa/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[19:28:22] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:28:25] [main/INFO]: Loaded 1290 recipes
-[19:28:25] [main/INFO]: Loaded 1399 advancements
-[19:28:26] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[19:28:26] [Server thread/INFO]: Loading properties
-[19:28:26] [Server thread/INFO]: Default game type: SURVIVAL
-[19:28:26] [Server thread/INFO]: Generating keypair
-[19:28:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:28:26] [Server thread/INFO]: Using epoll channel type
-[19:28:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:28:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:28:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:28:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:28:26] [Server thread/INFO]: Preparing level "world"
-[19:28:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:28:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:28:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:28:32] [Worker-Main-1/INFO]: Preparing spawn area: 24%
-[19:28:33] [Worker-Main-3/INFO]: Preparing spawn area: 26%
-[19:28:33] [Server thread/INFO]: Time elapsed: 1806 ms
-[19:28:33] [Server thread/INFO]: Done (6.658s)! For help, type "help"
-[19:28:33] [Server thread/INFO]: DaVIcHoz21 (/172.30.41.140:52432) lost connection: Disconnected
-[19:28:43] [Server thread/INFO]: DaVIcHoz21[/172.30.41.140:52450] logged in with entity id 11 at (-464.5, 67.0, -535.5)
-[19:28:43] [Server thread/INFO]: DaVIcHoz21 joined the game
-[19:33:03] [Server thread/INFO]: troll_face300[/172.30.212.217:52086] logged in with entity id 1258 at (-471.24061930392935, 63.0, -536.0536557228)
-[19:33:03] [Server thread/INFO]: troll_face300 joined the game
-[20:14:24] [Server thread/WARN]: DaVIcHoz21 moved too quickly! -5.040288599174119,-7.927979076860645,5.2848010486546855
-[20:14:50] [Server thread/WARN]: DaVIcHoz21 moved too quickly! -5.5968111334042305,2.3632987928099993,8.852072809833203
-[20:15:18] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> -1442/ 9 / 1456
-[20:15:26] [Server thread/WARN]: DaVIcHoz21 moved too quickly! -0.12004458991088995,0.17879962162734842,12.68335365786848
-[20:15:37] [Server thread/WARN]: DaVIcHoz21 moved too quickly! -0.2675136982428512,-0.7299464976386076,11.047298834748062
-[20:15:56] [Server thread/WARN]: DaVIcHoz21 moved too quickly! -6.9939697041302225,0.1819899403821097,9.425325148094743
-[20:15:57] [Server thread/WARN]: DaVIcHoz21 moved too quickly! 0.0,-10.490796109027968,0.0
-[20:16:08] [Server thread/WARN]: DaVIcHoz21 moved too quickly! -4.474009665084168,4.88571436754799,8.280317638131521
-[20:16:11] [Server thread/WARN]: DaVIcHoz21 moved too quickly! -2.9340582966704005,12.605318830482872,4.4167494528937254
-[20:16:14] [Server thread/WARN]: DaVIcHoz21 moved too quickly! -3.5644878298322737,9.812971447310659,5.3694118445245635
-[20:16:16] [Server thread/WARN]: DaVIcHoz21 moved too quickly! -0.6310195635555829,-11.523684986416654,1.0665402018298664
-[20:16:18] [Server thread/WARN]: DaVIcHoz21 moved too quickly! 0.0,-12.15397152337259,0.0
-[20:16:19] [Server thread/INFO]: DaVIcHoz21 lost connection: Disconnected
-[20:16:19] [Server thread/INFO]: DaVIcHoz21 left the game
-[20:16:34] [Server thread/INFO]: DaVIcHoz21[/172.30.41.140:55369] logged in with entity id 14174 at (-900.1856426618733, 72.74831632656344, 387.315866778195)
-[20:16:34] [Server thread/INFO]: DaVIcHoz21 joined the game
-[20:16:41] [Server thread/WARN]: DaVIcHoz21 moved too quickly! -7.189906722760043,-0.07525165639198406,10.54047574340035
-[20:16:44] [Server thread/WARN]: DaVIcHoz21 moved too quickly! -6.456005829749188,-0.7684629481547347,9.075214174834628
-[20:17:07] [Server thread/WARN]: DaVIcHoz21 moved too quickly! 0.2194346800108633,6.8394470708936765,8.458045428469745
-[20:17:25] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> -1442/9/1456
-[20:18:27] [Server thread/INFO]: DaVIcHoz21 lost connection: Disconnected
-[20:18:27] [Server thread/INFO]: DaVIcHoz21 left the game
-[20:36:23] [Server thread/INFO]: DaVIcHoz21[/172.30.41.140:56611] logged in with entity id 23124 at (-1159.300000011921, 35.0, 1184.300000011921)
-[20:36:23] [Server thread/INFO]: DaVIcHoz21 joined the game
-[20:36:28] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> ola
-[20:36:34] [Server thread/WARN]: DaVIcHoz21 moved too quickly! -4.945123283534031,8.641545749934487,4.201712102359124
-[20:36:41] [Server thread/WARN]: DaVIcHoz21 moved too quickly! -1.522672030693684,4.717681898951845,9.700428894642528
-[20:36:43] [Server thread/WARN]: DaVIcHoz21 moved too quickly! -1.5973920661342618,5.936917591053863,10.251451871567497
-[20:37:12] [Server thread/WARN]: troll_face300 was kicked for floating too long!
-[20:37:12] [Server thread/INFO]: troll_face300 lost connection: Flying is not enabled on this server
-[20:37:12] [Server thread/INFO]: troll_face300 left the game
-[20:37:12] [Server thread/WARN]: handleDisconnection() called twice
-[20:37:47] [Server thread/WARN]: DaVIcHoz21 moved too quickly! -9.182698101059032,2.331162471941113,4.449167318177842
-[20:40:17] [Server thread/INFO]: DaVIcHoz21 lost connection: Disconnected
-[20:40:17] [Server thread/INFO]: DaVIcHoz21 left the game
-[20:40:31] [Server thread/INFO]: DaVIcHoz21[/172.30.41.140:56837] logged in with entity id 24403 at (-1441.862500011921, 7.0, 1449.300000011921)
-[20:40:31] [Server thread/INFO]: DaVIcHoz21 joined the game
-[20:41:33] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> w
-[20:41:34] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> w
-[20:41:34] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> w
-[20:41:35] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> w
-[20:41:35] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> w
-[20:54:46] [Server thread/INFO]: DaVIcHoz21 lost connection: Disconnected
-[20:54:46] [Server thread/INFO]: DaVIcHoz21 left the game
-[20:56:08] [Server thread/INFO]: DaVIcHoz21[/172.30.41.140:57804] logged in with entity id 27619 at (-1437.300000011921, 7.0, 1454.300000011921)
-[20:56:08] [Server thread/INFO]: DaVIcHoz21 joined the game
-[20:56:20] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> MOJANG DE MIERDA
-[20:56:28] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> HIJOS DE PUTA
-[21:04:08] [Server thread/INFO]: DaVIcHoz21 lost connection: Disconnected
-[21:04:08] [Server thread/INFO]: DaVIcHoz21 left the game
-[21:08:09] [Server thread/INFO]: troll_face300[/172.30.212.217:54411] logged in with entity id 29170 at (-1442.2693960270094, 10.249187078744683, 1454.5160875230888)
-[21:08:09] [Server thread/INFO]: troll_face300 joined the game
-[21:08:15] [Server thread/WARN]: troll_face300 was kicked for floating too long!
-[21:08:15] [Server thread/INFO]: troll_face300 lost connection: Flying is not enabled on this server
-[21:08:15] [Server thread/INFO]: troll_face300 left the game
-[21:08:26] [Server thread/INFO]: troll_face300[/172.30.212.217:54418] logged in with entity id 29378 at (-1442.2693960270094, 10.249187078744683, 1454.5160875230888)
-[21:08:26] [Server thread/INFO]: troll_face300 joined the game
-[21:08:43] [Server thread/INFO]: DaVIcHoz21[/172.30.41.140:58653] logged in with entity id 29598 at (-1441.8886390420012, 7.0, 1451.6433099692972)
-[21:08:43] [Server thread/INFO]: DaVIcHoz21 joined the game
-[21:11:35] [Server thread/INFO]: DaVIcHoz21 fell out of the world
-[21:11:46] [Server thread/INFO]: DaVIcHoz21 lost connection: Disconnected
-[21:11:46] [Server thread/INFO]: DaVIcHoz21 left the game
-[21:19:59] [Server thread/WARN]: troll_face300 moved too quickly! -6.145065590238573,-22.0,2.1184797165971645
-[21:42:22] [Server thread/INFO]: troll_face300 has reached the goal [Sky's the Limit]
-[21:49:36] [Server thread/INFO]: troll_face300 lost connection: Disconnected
-[21:49:36] [Server thread/INFO]: troll_face300 left the game
-[21:56:35] [Server thread/INFO]: troll_face300[/172.30.212.217:55176] logged in with entity id 35292 at (-476.67471791651224, 64.0, -521.7381878872213)
-[21:56:35] [Server thread/INFO]: troll_face300 joined the game
-[22:01:23] [Server thread/INFO]: DaVIcHoz21[/172.30.41.140:61937] logged in with entity id 36285 at (-14.977390205021031, 63.0, -23.074880107383102)
-[22:01:23] [Server thread/INFO]: DaVIcHoz21 joined the game
-[22:01:39] [Server thread/INFO]: [Not Secure] <troll_face300> a
-[22:01:40] [Server thread/INFO]: [Not Secure] <troll_face300> hola
-[22:01:50] [Server thread/INFO]: [Not Secure] <troll_face300> te regalo pechera?
-[22:02:09] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> q encantamientos tiene
-[22:02:19] [Server thread/INFO]: [Not Secure] <troll_face300> proteccion 4 y durabilidad
-[22:02:20] [Server thread/INFO]: [Not Secure] <troll_face300> 3
-[22:02:25] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> consigueme unas elitros a mi pe
-[22:02:28] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> porfa
-[22:02:37] [Server thread/INFO]: [Not Secure] <troll_face300> donde estas?
-[22:02:47] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> en el spawn
-[22:02:54] [Server thread/INFO]: [Not Secure] <troll_face300> ok
-[22:04:05] [Server thread/INFO]: [Not Secure] <troll_face300> te regalo otros 2 schulker
-[22:04:13] [Server thread/INFO]: [Not Secure] <troll_face300> ven a la casa
-[22:04:30] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> me va recontra laag
-[22:04:33] [Server thread/INFO]: [Not Secure] <troll_face300> a
-[22:04:41] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> a 0 fps
-[22:04:44] [Server thread/INFO]: [Not Secure] <troll_face300> ._.
-[22:04:51] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> por momentos
-[22:05:15] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> si se me va es por el wifi
-[22:05:18] [Server thread/INFO]: DaVIcHoz21 lost connection: Disconnected
-[22:05:18] [Server thread/INFO]: DaVIcHoz21 left the game
-[22:05:21] [Server thread/INFO]: [Not Secure] <troll_face300> ._.
-[22:15:33] [Server thread/INFO]: troll_face300 lost connection: Disconnected
-[22:15:33] [Server thread/INFO]: troll_face300 left the game
-[22:16:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[22:16:01] [Server thread/INFO]: Stop<--[HERE]
-[22:16:11] [Server thread/INFO]: Stopping the server
-[22:16:12] [Server thread/INFO]: Stopping server
-[22:16:12] [Server thread/INFO]: Saving players
-[22:16:12] [Server thread/INFO]: Saving worlds
-[22:16:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:16:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:16:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:16:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:16:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:16:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:16:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:19:20] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/aaaaaaaa/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[22:19:26] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:19:28] [main/INFO]: Loaded 1290 recipes
+[22:19:28] [main/INFO]: Loaded 1399 advancements
+[22:19:28] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[22:19:28] [Server thread/INFO]: Loading properties
+[22:19:28] [Server thread/INFO]: Default game type: SURVIVAL
+[22:19:28] [Server thread/INFO]: Generating keypair
+[22:19:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:19:28] [Server thread/INFO]: Using epoll channel type
+[22:19:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:19:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:19:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:19:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:19:28] [Server thread/INFO]: Preparing level "world"
+[22:19:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:19:31] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:19:31] [Server thread/INFO]: Time elapsed: 454 ms
+[22:19:31] [Server thread/INFO]: Done (2.873s)! For help, type "help"
+[22:20:05] [Server thread/INFO]: troll_face300[/172.30.212.217:55484] logged in with entity id 11 at (-1441.987327192567, 9.0, 1454.2303078248801)
+[22:20:05] [Server thread/INFO]: troll_face300 joined the game
+[22:36:53] [Server thread/INFO]: troll_face300 lost connection: Disconnected
+[22:36:53] [Server thread/INFO]: troll_face300 left the game
+[22:37:03] [Server thread/INFO]: Stopping the server
+[22:37:03] [Server thread/INFO]: Stopping server
+[22:37:03] [Server thread/INFO]: Saving players
+[22:37:03] [Server thread/INFO]: Saving worlds
+[22:37:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:37:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:37:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:37:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:37:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:37:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:37:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
