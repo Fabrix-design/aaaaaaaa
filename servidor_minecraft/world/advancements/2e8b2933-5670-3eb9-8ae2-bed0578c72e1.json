@@ -719,6 +719,7 @@
       "minecraft:wither_skeleton": "2025-01-12 02:11:56 +0000",
       "minecraft:husk": "2025-01-10 21:15:18 +0000",
       "minecraft:shulker": "2025-01-12 21:06:35 +0000",
+      "minecraft:cave_spider": "2025-01-13 20:50:33 +0000",
       "minecraft:piglin": "2024-12-09 02:25:20 +0000",
       "minecraft:silverfish": "2025-01-10 21:25:54 +0000",
       "minecraft:enderman": "2025-01-12 01:38:46 +0000",
@@ -4199,6 +4200,30 @@
   "minecraft:recipes/decorations/orange_carpet": {
     "criteria": {
       "has_orange_wool": "2025-01-13 19:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-01-13 20:44:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-01-13 20:44:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2025-01-13 20:51:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2025-01-13 20:51:59 +0000"
     },
     "done": true
   },
