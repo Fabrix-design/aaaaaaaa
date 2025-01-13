@@ -290,13 +290,14 @@
       "golden_apple": "2025-01-13 03:07:29 +0000",
       "rotten_flesh": "2024-12-09 14:42:57 +0000",
       "cookie": "2025-01-11 02:00:26 +0000",
-      "enchanted_golden_apple": "2025-01-10 21:16:50 +0000",
-      "potato": "2024-12-08 00:32:28 +0000",
       "baked_potato": "2024-12-07 15:45:35 +0000",
       "porkchop": "2024-12-06 23:36:10 +0000",
-      "pumpkin_pie": "2025-01-11 22:24:57 +0000",
       "beetroot": "2024-12-07 15:29:22 +0000",
       "golden_carrot": "2025-01-11 02:10:09 +0000",
+      "cooked_chicken": "2025-01-13 20:11:42 +0000",
+      "enchanted_golden_apple": "2025-01-10 21:16:50 +0000",
+      "potato": "2024-12-08 00:32:28 +0000",
+      "pumpkin_pie": "2025-01-11 22:24:57 +0000",
       "carrot": "2024-12-07 01:50:10 +0000"
     },
     "done": false
@@ -3479,6 +3480,78 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-01-13 03:18:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-01-13 20:20:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-01-13 20:20:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-13 20:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-01-13 20:20:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-13 20:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-13 20:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-13 20:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-13 20:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-13 20:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-13 20:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-01-13 20:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-13 20:25:14 +0000"
     },
     "done": true
   },
