@@ -1,148 +1,48 @@
-[02:30:11] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
-[02:30:11] [main/INFO]: Loading 4 mods:
+[18:35:44] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
+[18:35:44] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.21.1
-[02:30:11] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/aaaaaaaa/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[02:30:27] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:30:32] [main/INFO]: Loaded 1290 recipes
-[02:30:33] [main/INFO]: Loaded 1399 advancements
-[02:30:34] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[02:30:34] [Server thread/INFO]: Loading properties
-[02:30:34] [Server thread/INFO]: Default game type: SURVIVAL
-[02:30:34] [Server thread/INFO]: Generating keypair
-[02:30:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:30:34] [Server thread/INFO]: Using epoll channel type
-[02:30:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:30:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:30:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:30:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:30:34] [Server thread/INFO]: Preparing level "world"
-[02:30:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:30:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:30:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:30:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:30:47] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[02:30:47] [Worker-Main-1/INFO]: Preparing spawn area: 55%
-[02:30:48] [Server thread/INFO]: Time elapsed: 2243 ms
-[02:30:48] [Server thread/INFO]: Done (13.201s)! For help, type "help"
-[02:38:07] [Server thread/INFO]: troll_face300[/172.30.212.217:53122] logged in with entity id 11 at (-526.1787631459363, 65.0, -494.69556480307534)
-[02:38:07] [Server thread/INFO]: troll_face300 joined the game
-[02:38:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[02:41:23] [Server thread/INFO]: DaVIcHoz21[/172.30.41.140:62027] logged in with entity id 764 at (-443.4122445826144, -58.0, -390.4087036101741)
-[02:41:23] [Server thread/INFO]: DaVIcHoz21 joined the game
-[02:42:22] [Server thread/INFO]: [Not Secure] <troll_face300> hay esta
-[02:43:01] [Server thread/INFO]: [Not Secure] <troll_face300> a
-[02:43:31] [Server thread/INFO]: [Not Secure] <troll_face300> si
-[02:43:38] [Server thread/INFO]: [Not Secure] <troll_face300> ya
-[02:45:53] [Server thread/INFO]: [Not Secure] <troll_face300> ya apura
-[02:45:55] [Server thread/INFO]: [Not Secure] <troll_face300> raid
-[02:45:59] [Server thread/INFO]: [Not Secure] <troll_face300> ._.
-[02:46:29] [Server thread/INFO]: [Not Secure] <troll_face300> ya
-[02:47:59] [Server thread/INFO]: [Not Secure] <troll_face300> a
-[02:49:37] [Server thread/INFO]: [Not Secure] <troll_face300> a
-[02:49:41] [Server thread/INFO]: [Not Secure] <troll_face300> si
-[02:49:57] [Server thread/INFO]: [Not Secure] <troll_face300> ya
-[02:49:58] [Server thread/INFO]: [Not Secure] <troll_face300> ahora si
-[02:50:21] [Server thread/INFO]: [Not Secure] <troll_face300> ya dale
-[02:50:53] [Server thread/INFO]: [Not Secure] <troll_face300> ya ahora si
-[02:52:10] [Server thread/INFO]: [Not Secure] <troll_face300> yaaaaa
-[02:52:20] [Server thread/INFO]: [Not Secure] <troll_face300> tu
-[02:52:32] [Server thread/INFO]: [Not Secure] <troll_face300> donde esta
-[02:52:39] [Server thread/INFO]: [Not Secure] <troll_face300> toma
-[02:52:40] [Server thread/INFO]: [Not Secure] <troll_face300> la
-[02:52:43] [Server thread/INFO]: DaVIcHoz21 has made the advancement [Crafting a New Look]
-[02:53:15] [Server thread/INFO]: [Not Secure] <troll_face300> a
-[02:53:16] [Server thread/INFO]: [Not Secure] <troll_face300> solo inicia
-[02:53:57] [Server thread/INFO]: [Not Secure] <troll_face300> sube
-[02:54:17] [Server thread/INFO]: [Not Secure] <troll_face300> si
-[02:54:23] [Server thread/INFO]: [Not Secure] <troll_face300> no
-[02:54:54] [Server thread/INFO]: [Not Secure] <troll_face300> si
-[02:55:11] [Server thread/INFO]: [Not Secure] <troll_face300> mas tarde
-[02:57:02] [Server thread/INFO]: [Not Secure] <troll_face300> nop
-[02:57:06] [Server thread/INFO]: [Not Secure] <troll_face300> cuando termine
-[02:57:51] [Server thread/INFO]: [Not Secure] <troll_face300> a
-[02:57:58] [Server thread/INFO]: [Not Secure] <troll_face300> xd
-[03:00:55] [Server thread/INFO]: [Not Secure] <troll_face300> veneno de 30 segundos
-[03:02:05] [Server thread/INFO]: [Not Secure] <troll_face300> nop
-[03:02:45] [Server thread/INFO]: [Not Secure] <troll_face300> donde esta?
-[03:03:42] [Server thread/INFO]: troll_face300 was slain by Ravager
-[03:03:51] [Server thread/INFO]: Villager class_1646['Fletcher'/23, l='ServerLevel[world]', x=-503.27, y=61.56, z=-497.66] died, message: 'Fletcher was slain by Vex'
-[03:04:02] [Server thread/INFO]: troll_face300 was slain by Vex
-[03:04:27] [Server thread/INFO]: troll_face300 was slain by Vex
-[03:05:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-493, y=67, z=-506} class_2338{x=-493, y=66, z=-506}
-[03:07:18] [Server thread/INFO]: [Not Secure] <troll_face300> apura
-[03:07:19] [Server thread/INFO]: [Not Secure] <troll_face300> ya estoy
-[03:07:22] [Server thread/INFO]: [Not Secure] <troll_face300> no
-[03:07:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-499, y=65, z=-475} class_2338{x=-497, y=63, z=-474}
-[03:07:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-495, y=65, z=-479} class_2338{x=-496, y=63, z=-481}
-[03:07:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-497, y=65, z=-480} class_2338{x=-497, y=63, z=-482}
-[03:07:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-497, y=65, z=-480} class_2338{x=-497, y=63, z=-482}
-[03:07:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-497, y=65, z=-480} class_2338{x=-497, y=63, z=-482}
-[03:07:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-500, y=65, z=-480} class_2338{x=-497, y=63, z=-482}
-[03:07:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-498, y=65, z=-481} class_2338{x=-498, y=63, z=-482}
-[03:07:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-498, y=65, z=-481} class_2338{x=-498, y=63, z=-482}
-[03:07:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-498, y=65, z=-481} class_2338{x=-498, y=63, z=-482}
-[03:07:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-504, y=65, z=-482} class_2338{x=-504, y=63, z=-484}
-[03:08:43] [Server thread/INFO]: DaVIcHoz21 was slain by Vindicator
-[03:09:04] [Server thread/INFO]: DaVIcHoz21 was slain by Vindicator
-[03:09:15] [Server thread/INFO]: [Not Secure] <troll_face300> apura
-[03:09:55] [Server thread/INFO]: troll_face300 was slain by Vindicator
-[03:10:41] [Server thread/INFO]: [Not Secure] <troll_face300> si
-[03:11:38] [Server thread/INFO]: [Not Secure] <troll_face300> siii
-[03:11:47] [Server thread/INFO]: [Not Secure] <troll_face300> estan ivvos
-[03:11:48] [Server thread/INFO]: Villager class_1646['Armorer'/21, l='ServerLevel[world]', x=-496.56, y=61.92, z=-493.41] died, message: 'Armorer was slain by Iron Golem'
-[03:11:56] [Server thread/INFO]: [Not Secure] <troll_face300> SIIIII
-[03:12:05] [Server thread/INFO]: Villager class_1646['Fletcher'/77, l='ServerLevel[world]', x=-497.12, y=61.00, z=-497.25] died, message: 'Fletcher was slain by Iron Golem'
-[03:12:08] [Server thread/INFO]: Villager class_1646['Cleric'/20, l='ServerLevel[world]', x=-500.35, y=61.00, z=-502.70] died, message: 'Cleric was slain by Iron Golem'
-[03:12:15] [Server thread/INFO]: [Not Secure] <troll_face300> aqui esta
-[03:12:19] [Server thread/INFO]: [Not Secure] <troll_face300> uff
-[03:12:21] [Server thread/INFO]: [Not Secure] <troll_face300> por poco
-[03:12:28] [Server thread/INFO]: [Not Secure] <troll_face300> si
-[03:12:43] [Server thread/INFO]: [Not Secure] <troll_face300> la pared si sirvio
-[03:13:07] [Server thread/INFO]: [Not Secure] <troll_face300> ta que este golem iso sigma
-[03:13:12] [Server thread/INFO]: [Not Secure] <troll_face300> solo mano
-[03:13:24] [Server thread/INFO]: [Not Secure] <troll_face300> se mato a dos perros con sus dueños
-[03:13:33] [Server thread/INFO]: [Not Secure] <troll_face300> el verdadero guardespaldas
-[03:13:43] [Server thread/INFO]: [Not Secure] <troll_face300> etiqueta guardespaldas
-[03:13:44] [Server thread/WARN]: DaVIcHoz21 moved too quickly! 4.251369967330334,-3.495200877005928,-8.520219899492133
-[03:13:56] [Server thread/INFO]: [Not Secure] <troll_face300> a
-[03:14:01] [Server thread/INFO]: [Not Secure] <troll_face300> era 5?
-[03:15:12] [Server thread/INFO]: [Not Secure] <troll_face300> tengo 2 totems
-[03:15:14] [Server thread/INFO]: [Not Secure] <troll_face300> si
-[03:15:15] [Server thread/INFO]: [Not Secure] <troll_face300> xd
-[03:15:52] [Server thread/INFO]: [Not Secure] <troll_face300> si xd
-[03:16:08] [Server thread/INFO]: [Not Secure] <troll_face300> no me acuerdo
-[03:16:14] [Server thread/INFO]: [Not Secure] <troll_face300> hay que quitar el techo
-[03:16:39] [Server thread/INFO]: [Not Secure] <troll_face300> oye
-[03:16:40] [Server thread/INFO]: [Not Secure] <troll_face300> mejor no
-[03:16:46] [Server thread/INFO]: [Not Secure] <troll_face300> sirvio para los perro
-[03:16:54] [Server thread/INFO]: [Not Secure] <troll_face300> algunos se metieron
-[03:17:01] [Server thread/INFO]: [Not Secure] <troll_face300> cual
-[03:17:12] [Server thread/INFO]: [Not Secure] <troll_face300> a
-[03:17:23] [Server thread/INFO]: [Not Secure] <troll_face300> entonces mas grande el techo
-[03:17:30] [Server thread/INFO]: [Not Secure] <troll_face300> si
-[03:17:50] [Server thread/INFO]: [Not Secure] <troll_face300> si
-[03:18:37] [Server thread/INFO]: [Not Secure] <troll_face300> si
-[03:18:52] [Server thread/INFO]: [Not Secure] <troll_face300> donde
-[03:19:28] [Server thread/INFO]: [Not Secure] <troll_face300> si
-[03:20:13] [Server thread/INFO]: [Not Secure] <troll_face300> hola
-[03:20:22] [Server thread/INFO]: [Not Secure] <troll_face300> a
-[03:20:35] [Server thread/INFO]: [Not Secure] <troll_face300> 20
-[03:20:40] [Server thread/INFO]: DaVIcHoz21 lost connection: Disconnected
-[03:20:40] [Server thread/INFO]: DaVIcHoz21 left the game
-[03:20:42] [Server thread/INFO]: [Not Secure] <troll_face300> ya
-[03:24:04] [Server thread/INFO]: troll_face300 lost connection: Disconnected
-[03:24:04] [Server thread/INFO]: troll_face300 left the game
-[03:24:17] [Server thread/INFO]: Stopping the server
-[03:24:17] [Server thread/INFO]: Stopping server
-[03:24:17] [Server thread/INFO]: Saving players
-[03:24:17] [Server thread/INFO]: Saving worlds
-[03:24:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:24:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[03:24:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[03:24:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:24:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:24:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:24:17] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:35:45] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/aaaaaaaa/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[18:35:55] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:35:58] [main/INFO]: Loaded 1290 recipes
+[18:35:58] [main/INFO]: Loaded 1399 advancements
+[18:35:59] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[18:35:59] [Server thread/INFO]: Loading properties
+[18:35:59] [Server thread/INFO]: Default game type: SURVIVAL
+[18:35:59] [Server thread/INFO]: Generating keypair
+[18:35:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:35:59] [Server thread/INFO]: Using epoll channel type
+[18:36:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:36:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:36:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:36:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:36:00] [Server thread/INFO]: Preparing level "world"
+[18:36:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:36:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:36:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:36:08] [Worker-Main-1/INFO]: Preparing spawn area: 53%
+[18:36:08] [Server thread/INFO]: Time elapsed: 1066 ms
+[18:36:08] [Server thread/INFO]: Done (8.649s)! For help, type "help"
+[18:37:09] [Server thread/INFO]: troll_face300[/172.30.212.217:50653] logged in with entity id 11 at (-519.6989940782997, 64.9375, -507.4071621238706)
+[18:37:09] [Server thread/INFO]: troll_face300 joined the game
+[18:37:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[18:39:24] [Server thread/INFO]: troll_face300 lost connection: Timed out
+[18:39:24] [Server thread/INFO]: troll_face300 left the game
+[18:39:24] [Server thread/WARN]: handleDisconnection() called twice
+[18:39:47] [Server thread/INFO]: troll_face300[/172.30.212.217:50693] logged in with entity id 611 at (-493.91070445387595, 61.0, -494.8187534360934)
+[18:39:47] [Server thread/INFO]: troll_face300 joined the game
+[18:40:38] [Server thread/INFO]: troll_face300 lost connection: Disconnected
+[18:40:38] [Server thread/INFO]: troll_face300 left the game
+[18:40:43] [Server thread/INFO]: Stopping the server
+[18:40:43] [Server thread/INFO]: Stopping server
+[18:40:43] [Server thread/INFO]: Saving players
+[18:40:43] [Server thread/INFO]: Saving worlds
+[18:40:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:40:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:40:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:40:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:40:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:40:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:40:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
