@@ -1,49 +1,58 @@
-[03:27:26] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
-[03:27:27] [main/INFO]: Loading 4 mods:
+[15:57:00] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
+[15:57:00] [main/INFO]: Loading 10 mods:
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.21.1
-[03:27:27] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/aaaaaaaa/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[03:27:35] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:27:38] [main/INFO]: Loaded 1290 recipes
-[03:27:38] [main/INFO]: Loaded 1399 advancements
-[03:27:39] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[03:27:39] [Server thread/INFO]: Loading properties
-[03:27:39] [Server thread/INFO]: Default game type: SURVIVAL
-[03:27:39] [Server thread/INFO]: Generating keypair
-[03:27:39] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:27:39] [Server thread/INFO]: Using epoll channel type
-[03:27:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:27:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:27:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:27:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:27:39] [Server thread/INFO]: Preparing level "world"
-[03:27:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:27:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:27:45] [Server thread/INFO]: Time elapsed: 533 ms
-[03:27:45] [Server thread/INFO]: Done (5.133s)! For help, type "help"
-[03:29:45] [Server thread/INFO]: DaVIcHoz21[/172.30.41.140:51720] logged in with entity id 11 at (-77.40036488486831, 256.0, -442.22013492078213)
-[03:29:45] [Server thread/INFO]: DaVIcHoz21 joined the game
-[03:29:58] [Server thread/INFO]: troll_face300[/172.30.212.217:61120] logged in with entity id 100 at (-404.76058931045117, 0.0, -733.2696478000072)
-[03:29:58] [Server thread/INFO]: troll_face300 joined the game
-[03:31:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-79, y=255, z=-451} class_2338{x=-77, y=255, z=-450}
-[03:32:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-79, y=255, z=-451} class_2338{x=-84, y=255, z=-453}
-[03:36:30] [Server thread/INFO]: DaVIcHoz21 fell from a high place
-[03:41:24] [Server thread/WARN]: DaVIcHoz21 moved too quickly! 8.957536121234625,15.212024834423403,-4.298547059016016
-[03:42:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-73, y=142, z=-416} class_2338{x=-103, y=255, z=-392}
-[03:42:51] [Server thread/INFO]: troll_face300 lost connection: Disconnected
-[03:42:51] [Server thread/INFO]: troll_face300 left the game
-[03:43:02] [Server thread/INFO]: Stopping the server
-[03:43:02] [Server thread/INFO]: Stopping server
-[03:43:02] [Server thread/INFO]: Saving players
-[03:43:02] [Server thread/INFO]: DaVIcHoz21 lost connection: Server closed
-[03:43:02] [Server thread/INFO]: DaVIcHoz21 left the game
-[03:43:02] [Server thread/INFO]: Saving worlds
-[03:43:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:43:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[03:43:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[03:43:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:43:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:43:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:43:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+	- voicechat 1.21.1-2.5.27
+	   |-- fabric-api-base 0.4.42+6573ed8c6a
+	   |-- fabric-command-api-v2 2.2.28+6ced4dd96a
+	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a76a
+	   |-- fabric-lifecycle-events-v1 2.3.12+6c1df3606a
+	   |-- fabric-networking-api-v1 4.2.2+60c3209b6a
+	   \-- fabric-resource-loader-v0 1.3.0+565991296a
+[15:57:00] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/aaaaaaaa/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[15:57:00] [main/INFO]: Compatibility level set to JAVA_17
+[15:57:01] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[15:57:06] [main/INFO]: [voicechat] Compatibility version 18
+[15:57:06] [main/INFO]: [voicechat] Loading plugins
+[15:57:06] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[15:57:06] [main/INFO]: [voicechat] Initializing plugins
+[15:57:06] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[15:57:06] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:57:06] [main/INFO]: Found new data pack fabric, loading it automatically
+[15:57:08] [main/INFO]: Loaded 1290 recipes
+[15:57:08] [main/INFO]: Loaded 1399 advancements
+[15:57:08] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[15:57:08] [Server thread/INFO]: Loading properties
+[15:57:08] [Server thread/INFO]: Default game type: SURVIVAL
+[15:57:08] [Server thread/INFO]: Generating keypair
+[15:57:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:57:09] [Server thread/INFO]: Using epoll channel type
+[15:57:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:57:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:57:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:57:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:57:09] [Server thread/INFO]: Preparing level "world"
+[15:57:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:57:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:57:13] [Server thread/INFO]: Time elapsed: 431 ms
+[15:57:13] [Server thread/INFO]: Done (3.833s)! For help, type "help"
+[15:57:13] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[15:57:13] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[15:57:39] [Server thread/INFO]: DaVIcHoz21[/172.30.41.140:58023] logged in with entity id 11 at (-87.84368687778722, 257.0013359791121, -454.6264180219478)
+[15:57:39] [Server thread/INFO]: DaVIcHoz21 joined the game
+[15:59:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-124, y=255, z=-424} class_2338{x=-68, y=255, z=-404}
+[16:02:32] [Server thread/INFO]: Stopping the server
+[16:02:32] [Server thread/INFO]: Stopping server
+[16:02:32] [Server thread/INFO]: Saving players
+[16:02:32] [Server thread/INFO]: DaVIcHoz21 lost connection: Server closed
+[16:02:32] [Server thread/INFO]: DaVIcHoz21 left the game
+[16:02:32] [Server thread/INFO]: Saving worlds
+[16:02:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:02:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:02:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:02:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:02:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:02:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:02:32] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
