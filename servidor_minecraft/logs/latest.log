@@ -39,3 +39,10 @@
 [19:59:16] [Server thread/INFO]: Done (3.859s)! For help, type "help"
 [19:59:16] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [19:59:16] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 172.30.124.31:24454
+[20:11:03] [Server thread/INFO]: troll_face300[/172.30.212.217:57512] logged in with entity id 11 at (-106.70275401662502, 244.0, -418.7697237680358)
+[20:11:03] [Server thread/INFO]: troll_face300 joined the game
+[20:11:03] [Server thread/INFO]: [voicechat] Received secret request of troll_face300 (18)
+[20:11:03] [Server thread/INFO]: [voicechat] Sent secret to troll_face300
+[20:11:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 102b6e53-6dd7-35cc-a9c8-2492845090c8
+[20:11:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 102b6e53-6dd7-35cc-a9c8-2492845090c8
+[20:11:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player troll_face300 (102b6e53-6dd7-35cc-a9c8-2492845090c8) successfully connected to voice chat
