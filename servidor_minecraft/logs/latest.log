@@ -334,3 +334,22 @@
 [18:13:53] [Server thread/INFO]: troll_face300 lost connection: Disconnected
 [18:13:53] [Server thread/INFO]: troll_face300 left the game
 [18:13:53] [Server thread/INFO]: [voicechat] Disconnecting client troll_face300
+[18:21:54] [Server thread/INFO]: DaVIcHoz21 lost connection: Disconnected
+[18:21:54] [Server thread/INFO]: DaVIcHoz21 left the game
+[18:21:54] [Server thread/INFO]: [voicechat] Disconnecting client DaVIcHoz21
+[18:24:59] [Server thread/INFO]: troll_face300[/172.30.212.217:55224] logged in with entity id 43526 at (-116.3040583268233, 244.0, -422.121017456884)
+[18:24:59] [Server thread/INFO]: troll_face300 joined the game
+[18:27:12] [Server thread/INFO]: troll_face300 lost connection: Disconnected
+[18:27:12] [Server thread/INFO]: troll_face300 left the game
+[18:27:12] [Server thread/INFO]: [voicechat] Disconnecting client troll_face300
+[18:27:17] [Server thread/INFO]: Stopping the server
+[18:27:17] [Server thread/INFO]: Stopping server
+[18:27:17] [Server thread/INFO]: Saving players
+[18:27:17] [Server thread/INFO]: Saving worlds
+[18:27:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:27:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:27:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:27:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:27:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:27:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:27:17] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
