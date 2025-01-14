@@ -1,112 +1,49 @@
-[00:48:38] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
-[00:48:38] [main/INFO]: Loading 10 mods:
+[03:27:26] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
+[03:27:27] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.21.1
-	- voicechat 1.21.1-2.5.27
-	   |-- fabric-api-base 0.4.42+6573ed8c6a
-	   |-- fabric-command-api-v2 2.2.28+6ced4dd96a
-	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a76a
-	   |-- fabric-lifecycle-events-v1 2.3.12+6c1df3606a
-	   |-- fabric-networking-api-v1 4.2.2+60c3209b6a
-	   \-- fabric-resource-loader-v0 1.3.0+565991296a
-[00:48:38] [main/WARN]: Found 1 non-fabric mod:
-	- SkinsRestorer (1).jar
-[00:48:38] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/aaaaaaaa/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[00:48:38] [main/INFO]: Compatibility level set to JAVA_17
-[00:48:39] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[00:48:43] [main/INFO]: [voicechat] Compatibility version 18
-[00:48:43] [main/INFO]: [voicechat] Loading plugins
-[00:48:43] [main/INFO]: [voicechat] Loaded 0 plugin(s)
-[00:48:43] [main/INFO]: [voicechat] Initializing plugins
-[00:48:43] [main/INFO]: [voicechat] Initialized 0 plugin(s)
-[00:48:43] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:48:44] [main/INFO]: Found new data pack fabric, loading it automatically
-[00:48:45] [main/INFO]: Loaded 1290 recipes
-[00:48:45] [main/INFO]: Loaded 1399 advancements
-[00:48:46] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[00:48:46] [Server thread/INFO]: Loading properties
-[00:48:46] [Server thread/INFO]: Default game type: SURVIVAL
-[00:48:46] [Server thread/INFO]: Generating keypair
-[00:48:46] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:48:46] [Server thread/INFO]: Using epoll channel type
-[00:48:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:48:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:48:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:48:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:48:46] [Server thread/INFO]: Preparing level "world"
-[00:48:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:48:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:48:49] [Server thread/INFO]: Time elapsed: 415 ms
-[00:48:49] [Server thread/INFO]: Done (2.773s)! For help, type "help"
-[00:48:49] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[00:48:49] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
-[00:48:55] [Server thread/INFO]: DaVIcHoz21[/172.30.41.140:57446] logged in with entity id 11 at (-279.69999998807907, 93.0, -110.69999998807907)
-[00:48:55] [Server thread/INFO]: DaVIcHoz21 joined the game
-[00:51:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-477, y=65, z=-480} class_2338{x=-477, y=63, z=-480}
-[00:54:39] [Server thread/INFO]: troll_face300[/172.30.212.217:59123] logged in with entity id 1486 at (473.37655607230107, 60.0, 1854.7364496763282)
-[00:54:39] [Server thread/INFO]: troll_face300 joined the game
-[00:56:08] [Server thread/INFO]: DaVIcHoz21 has reached the goal [Sky's the Limit]
-[01:00:34] [Server thread/INFO]: troll_face300 lost connection: Disconnected
-[01:00:34] [Server thread/INFO]: troll_face300 left the game
-[01:00:34] [Server thread/ERROR]: Encountered an unexpected exception
-java.io.UncheckedIOException: java.nio.file.NoSuchFileException: /workspaces/aaaaaaaa/servidor_minecraft/mods/voicechat-fabric-1.21.1-2.5.27.jar
-	at net.fabricmc.loader.impl.util.LoaderUtil.normalizeExistingPath(LoaderUtil.java:46) ~[fabric-loader-0.16.3.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getCodeSource(KnotClassDelegate.java:515) ~[fabric-loader-0.16.3.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getMetadata(KnotClassDelegate.java:363) ~[fabric-loader-0.16.3.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:338) ~[fabric-loader-0.16.3.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.16.3.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119) ~[fabric-loader-0.16.3.jar:?]
-	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
-	at de.maxhenkel.voicechat.plugins.PluginManager.onPlayerDisconnected(PluginManager.java:189) ~[voicechat-fabric-1.21.1-2.5.27.jar:?]
-	at de.maxhenkel.voicechat.voice.server.Server.disconnectClient(Server.java:197) ~[voicechat-fabric-1.21.1-2.5.27.jar:?]
-	at de.maxhenkel.voicechat.voice.server.Server.onPlayerLoggedOut(Server.java:79) ~[voicechat-fabric-1.21.1-2.5.27.jar:?]
-	at de.maxhenkel.voicechat.voice.server.ServerVoiceEvents.playerLoggedOut(ServerVoiceEvents.java:151) ~[voicechat-fabric-1.21.1-2.5.27.jar:?]
-	at de.maxhenkel.voicechat.events.PlayerEvents.lambda$static$2(PlayerEvents.java:19) ~[voicechat-fabric-1.21.1-2.5.27.jar:?]
-	at net.minecraft.class_3324.handler$zce000$voicechat$onPlayerConnect(class_3324.java:1994) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3324.method_14611(class_3324.java) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3244.method_52415(class_3244.java:1250) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3244.method_10839(class_3244.java:1239) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10768(class_2535.java:673) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:189) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:1032) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:299) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:912) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:697) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-Caused by: java.nio.file.NoSuchFileException: /workspaces/aaaaaaaa/servidor_minecraft/mods/voicechat-fabric-1.21.1-2.5.27.jar
-	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92) ~[?:?]
-	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
-	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
-	at java.base/sun.nio.fs.UnixPath.toRealPath(UnixPath.java:834) ~[?:?]
-	at net.fabricmc.loader.impl.util.LoaderUtil.normalizeExistingPath(LoaderUtil.java:44) ~[fabric-loader-0.16.3.jar:?]
-	... 23 more
-[01:00:34] [Server thread/ERROR]: This crash report has been saved to: /workspaces/aaaaaaaa/servidor_minecraft/crash-reports/crash-2025-01-14_01.00.34-server.txt
-[01:00:34] [Server thread/ERROR]: Exception stopping the server
-java.io.UncheckedIOException: java.nio.file.NoSuchFileException: /workspaces/aaaaaaaa/servidor_minecraft/mods/voicechat-fabric-1.21.1-2.5.27.jar
-	at net.fabricmc.loader.impl.util.LoaderUtil.normalizeExistingPath(LoaderUtil.java:46) ~[fabric-loader-0.16.3.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getCodeSource(KnotClassDelegate.java:515) ~[fabric-loader-0.16.3.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getMetadata(KnotClassDelegate.java:363) ~[fabric-loader-0.16.3.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:338) ~[fabric-loader-0.16.3.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.16.3.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119) ~[fabric-loader-0.16.3.jar:?]
-	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
-	at de.maxhenkel.voicechat.plugins.PluginManager.onServerStopped(PluginManager.java:181) ~[voicechat-fabric-1.21.1-2.5.27.jar:?]
-	at de.maxhenkel.voicechat.voice.server.Server.close(Server.java:204) ~[voicechat-fabric-1.21.1-2.5.27.jar:?]
-	at de.maxhenkel.voicechat.voice.server.ServerVoiceEvents.serverStopping(ServerVoiceEvents.java:186) ~[voicechat-fabric-1.21.1-2.5.27.jar:?]
-	at net.fabricmc.fabric.api.event.lifecycle.v1.ServerLifecycleEvents.lambda$static$4(ServerLifecycleEvents.java:63) ~[fabric-lifecycle-events-v1-2.3.1+6c1df3606a-62dcfcd6759e0b16.jar:?]
-	at net.minecraft.server.MinecraftServer.handler$zze000$fabric-lifecycle-events-v1$beforeShutdownServer(MinecraftServer.java:2148) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3782(MinecraftServer.java) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3782(class_3176.java:561) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:735) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-Caused by: java.nio.file.NoSuchFileException: /workspaces/aaaaaaaa/servidor_minecraft/mods/voicechat-fabric-1.21.1-2.5.27.jar
-	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92) ~[?:?]
-	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
-	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
-	at java.base/sun.nio.fs.UnixPath.toRealPath(UnixPath.java:834) ~[?:?]
-	at net.fabricmc.loader.impl.util.LoaderUtil.normalizeExistingPath(LoaderUtil.java:44) ~[fabric-loader-0.16.3.jar:?]
-	... 16 more
+[03:27:27] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/aaaaaaaa/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[03:27:35] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:27:38] [main/INFO]: Loaded 1290 recipes
+[03:27:38] [main/INFO]: Loaded 1399 advancements
+[03:27:39] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[03:27:39] [Server thread/INFO]: Loading properties
+[03:27:39] [Server thread/INFO]: Default game type: SURVIVAL
+[03:27:39] [Server thread/INFO]: Generating keypair
+[03:27:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:27:39] [Server thread/INFO]: Using epoll channel type
+[03:27:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:27:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:27:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:27:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:27:39] [Server thread/INFO]: Preparing level "world"
+[03:27:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:27:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:27:45] [Server thread/INFO]: Time elapsed: 533 ms
+[03:27:45] [Server thread/INFO]: Done (5.133s)! For help, type "help"
+[03:29:45] [Server thread/INFO]: DaVIcHoz21[/172.30.41.140:51720] logged in with entity id 11 at (-77.40036488486831, 256.0, -442.22013492078213)
+[03:29:45] [Server thread/INFO]: DaVIcHoz21 joined the game
+[03:29:58] [Server thread/INFO]: troll_face300[/172.30.212.217:61120] logged in with entity id 100 at (-404.76058931045117, 0.0, -733.2696478000072)
+[03:29:58] [Server thread/INFO]: troll_face300 joined the game
+[03:31:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-79, y=255, z=-451} class_2338{x=-77, y=255, z=-450}
+[03:32:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-79, y=255, z=-451} class_2338{x=-84, y=255, z=-453}
+[03:36:30] [Server thread/INFO]: DaVIcHoz21 fell from a high place
+[03:41:24] [Server thread/WARN]: DaVIcHoz21 moved too quickly! 8.957536121234625,15.212024834423403,-4.298547059016016
+[03:42:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-73, y=142, z=-416} class_2338{x=-103, y=255, z=-392}
+[03:42:51] [Server thread/INFO]: troll_face300 lost connection: Disconnected
+[03:42:51] [Server thread/INFO]: troll_face300 left the game
+[03:43:02] [Server thread/INFO]: Stopping the server
+[03:43:02] [Server thread/INFO]: Stopping server
+[03:43:02] [Server thread/INFO]: Saving players
+[03:43:02] [Server thread/INFO]: DaVIcHoz21 lost connection: Server closed
+[03:43:02] [Server thread/INFO]: DaVIcHoz21 left the game
+[03:43:02] [Server thread/INFO]: Saving worlds
+[03:43:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:43:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:43:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:43:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:43:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:43:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:43:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
