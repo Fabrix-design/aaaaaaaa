@@ -41,3 +41,6 @@
 [22:41:18] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 172.30.124.31:24454
 [22:59:55] [Server thread/INFO]: DaVIcHoz21[/172.30.41.140:55364] logged in with entity id 11 at (-89.77965508011826, 244.0, -421.9789573805292)
 [22:59:55] [Server thread/INFO]: DaVIcHoz21 joined the game
+[23:02:19] [Server thread/INFO]: DaVIcHoz21 lost connection: Disconnected
+[23:02:19] [Server thread/INFO]: DaVIcHoz21 left the game
+[23:02:19] [Server thread/INFO]: [voicechat] Disconnecting client DaVIcHoz21
