@@ -1,5 +1,5 @@
-[15:57:00] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
-[15:57:00] [main/INFO]: Loading 10 mods:
+[16:39:46] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
+[16:39:46] [main/INFO]: Loading 10 mods:
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
 	- java 21
@@ -11,48 +11,39 @@
 	   |-- fabric-lifecycle-events-v1 2.3.12+6c1df3606a
 	   |-- fabric-networking-api-v1 4.2.2+60c3209b6a
 	   \-- fabric-resource-loader-v0 1.3.0+565991296a
-[15:57:00] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/aaaaaaaa/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[15:57:00] [main/INFO]: Compatibility level set to JAVA_17
-[15:57:01] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[15:57:06] [main/INFO]: [voicechat] Compatibility version 18
-[15:57:06] [main/INFO]: [voicechat] Loading plugins
-[15:57:06] [main/INFO]: [voicechat] Loaded 0 plugin(s)
-[15:57:06] [main/INFO]: [voicechat] Initializing plugins
-[15:57:06] [main/INFO]: [voicechat] Initialized 0 plugin(s)
-[15:57:06] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[15:57:06] [main/INFO]: Found new data pack fabric, loading it automatically
-[15:57:08] [main/INFO]: Loaded 1290 recipes
-[15:57:08] [main/INFO]: Loaded 1399 advancements
-[15:57:08] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[15:57:08] [Server thread/INFO]: Loading properties
-[15:57:08] [Server thread/INFO]: Default game type: SURVIVAL
-[15:57:08] [Server thread/INFO]: Generating keypair
-[15:57:09] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:57:09] [Server thread/INFO]: Using epoll channel type
-[15:57:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:57:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:57:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:57:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:57:09] [Server thread/INFO]: Preparing level "world"
-[15:57:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:57:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:57:13] [Server thread/INFO]: Time elapsed: 431 ms
-[15:57:13] [Server thread/INFO]: Done (3.833s)! For help, type "help"
-[15:57:13] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[15:57:13] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
-[15:57:39] [Server thread/INFO]: DaVIcHoz21[/172.30.41.140:58023] logged in with entity id 11 at (-87.84368687778722, 257.0013359791121, -454.6264180219478)
-[15:57:39] [Server thread/INFO]: DaVIcHoz21 joined the game
-[15:59:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-124, y=255, z=-424} class_2338{x=-68, y=255, z=-404}
-[16:02:32] [Server thread/INFO]: Stopping the server
-[16:02:32] [Server thread/INFO]: Stopping server
-[16:02:32] [Server thread/INFO]: Saving players
-[16:02:32] [Server thread/INFO]: DaVIcHoz21 lost connection: Server closed
-[16:02:32] [Server thread/INFO]: DaVIcHoz21 left the game
-[16:02:32] [Server thread/INFO]: Saving worlds
-[16:02:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:02:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[16:02:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[16:02:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:02:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:02:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:02:32] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:39:46] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/aaaaaaaa/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[16:39:46] [main/INFO]: Compatibility level set to JAVA_17
+[16:39:47] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[16:39:52] [main/INFO]: [voicechat] Compatibility version 18
+[16:39:52] [main/INFO]: [voicechat] Loading plugins
+[16:39:52] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[16:39:52] [main/INFO]: [voicechat] Initializing plugins
+[16:39:52] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[16:39:52] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:39:54] [main/INFO]: Loaded 1290 recipes
+[16:39:54] [main/INFO]: Loaded 1399 advancements
+[16:39:55] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[16:39:55] [Server thread/INFO]: Loading properties
+[16:39:55] [Server thread/INFO]: Default game type: SURVIVAL
+[16:39:55] [Server thread/INFO]: Generating keypair
+[16:39:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:39:55] [Server thread/INFO]: Using epoll channel type
+[16:39:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:39:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:39:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:39:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:39:55] [Server thread/INFO]: Preparing level "world"
+[16:39:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:39:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:39:58] [Server thread/INFO]: Time elapsed: 436 ms
+[16:39:58] [Server thread/INFO]: Done (3.014s)! For help, type "help"
+[16:39:58] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[16:39:58] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 172.30.124.31:24454
+[16:40:31] [Server thread/INFO]: DaVIcHoz21[/172.30.41.140:61040] logged in with entity id 11 at (-641.4267326441427, 70.92159999847412, -497.3535044880042)
+[16:40:31] [Server thread/INFO]: DaVIcHoz21 joined the game
+[16:47:45] [Server thread/INFO]: troll_face300[/172.30.212.217:53757] logged in with entity id 1066 at (-95.26895465079478, 128.0, -393.9079758535201)
+[16:47:45] [Server thread/INFO]: troll_face300 joined the game
+[16:49:32] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> casi termino
+[16:49:35] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> me falta
+[16:49:37] [Server thread/INFO]: [Not Secure] <troll_face300> oye
+[16:49:41] [Server thread/INFO]: [Not Secure] <troll_face300> que habias hecho para entrar
