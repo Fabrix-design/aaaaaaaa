@@ -78,3 +78,4 @@
 [00:19:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player troll_face300 (102b6e53-6dd7-35cc-a9c8-2492845090c8) successfully connected to voice chat
 [00:20:11] [Server thread/INFO]: troll_face300 was slain by Zombified Piglin
 [00:22:37] [Server thread/INFO]: DaVIcHoz21 was doomed to fall by Zombified Piglin
+[00:36:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-92, y=248, z=-420} class_2338{x=-93, y=241, z=-425}
