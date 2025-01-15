@@ -1763,5 +1763,24 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-15 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-15 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-01-15 03:54:44 +0000",
+      "minecraft:soul_sand_valley": "2025-01-15 03:53:41 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3955
 }
