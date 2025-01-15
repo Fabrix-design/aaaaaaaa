@@ -226,3 +226,14 @@
 [01:35:26] [Server thread/WARN]: DaVIcHoz21 moved too quickly! -18.88901069134556,-0.7213232958258402,-0.7508856487794446
 [01:35:43] [Server thread/WARN]: DaVIcHoz21 moved too quickly! 0.8790729831095376,5.840696728174095,-16.448432004684534
 [01:35:47] [Server thread/WARN]: DaVIcHoz21 moved too quickly! 0.09684070117310739,7.65954112943615,-16.558599024805204
+[01:41:45] [Server thread/INFO]: Stopping the server
+[01:41:45] [Server thread/INFO]: Stopping server
+[01:41:45] [Server thread/INFO]: Saving players
+[01:41:45] [Server thread/INFO]: Saving worlds
+[01:41:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:41:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:41:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:41:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:41:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:41:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:41:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
