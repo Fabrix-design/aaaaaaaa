@@ -166,3 +166,36 @@
 [01:17:08] [Server thread/INFO]: [voicechat] Disconnecting client DaVIcHoz21
 [01:18:02] [Server thread/INFO]: DaVIcHoz21[/172.30.41.140:52606] logged in with entity id 21333 at (-647.0985734532957, 71.0, -499.80383454369263)
 [01:18:02] [Server thread/INFO]: DaVIcHoz21 joined the game
+[01:21:26] [Server thread/INFO]: troll_face300 lost connection: Timed out
+[01:21:26] [Server thread/INFO]: troll_face300 left the game
+[01:21:26] [Server thread/INFO]: [voicechat] Disconnecting client troll_face300
+[01:21:37] [Server thread/INFO]: troll_face300[/172.30.212.217:65354] logged in with entity id 22846 at (-92.64948961805055, 242.0, -421.9311096925983)
+[01:21:37] [Server thread/INFO]: troll_face300 joined the game
+[01:21:37] [Server thread/INFO]: [voicechat] Received secret request of troll_face300 (18)
+[01:21:37] [Server thread/INFO]: [voicechat] Sent secret to troll_face300
+[01:21:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 102b6e53-6dd7-35cc-a9c8-2492845090c8
+[01:21:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 102b6e53-6dd7-35cc-a9c8-2492845090c8
+[01:21:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player troll_face300 (102b6e53-6dd7-35cc-a9c8-2492845090c8) successfully connected to voice chat
+[01:23:05] [Server thread/INFO]: troll_face300 lost connection: Timed out
+[01:23:05] [Server thread/INFO]: troll_face300 left the game
+[01:23:05] [Server thread/INFO]: [voicechat] Disconnecting client troll_face300
+[01:23:15] [Server thread/INFO]: troll_face300[/172.30.212.217:65413] logged in with entity id 23448 at (-92.4973040772123, 241.0, -422.1802366224296)
+[01:23:15] [Server thread/INFO]: troll_face300 joined the game
+[01:23:16] [Server thread/INFO]: [voicechat] Received secret request of troll_face300 (18)
+[01:23:16] [Server thread/INFO]: [voicechat] Sent secret to troll_face300
+[01:23:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 102b6e53-6dd7-35cc-a9c8-2492845090c8
+[01:23:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 102b6e53-6dd7-35cc-a9c8-2492845090c8
+[01:23:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player troll_face300 (102b6e53-6dd7-35cc-a9c8-2492845090c8) successfully connected to voice chat
+[01:24:03] [Server thread/INFO]: troll_face300 lost connection: Timed out
+[01:24:03] [Server thread/INFO]: troll_face300 left the game
+[01:24:03] [Server thread/INFO]: [voicechat] Disconnecting client troll_face300
+[01:24:15] [Server thread/INFO]: troll_face300[/172.30.212.217:65414] logged in with entity id 23765 at (-92.5183353860835, 241.0, -422.38983296424857)
+[01:24:15] [Server thread/INFO]: troll_face300 joined the game
+[01:24:15] [Server thread/INFO]: [voicechat] Received secret request of troll_face300 (18)
+[01:24:15] [Server thread/INFO]: [voicechat] Sent secret to troll_face300
+[01:24:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 102b6e53-6dd7-35cc-a9c8-2492845090c8
+[01:24:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 102b6e53-6dd7-35cc-a9c8-2492845090c8
+[01:24:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player troll_face300 (102b6e53-6dd7-35cc-a9c8-2492845090c8) successfully connected to voice chat
+[01:25:38] [Server thread/INFO]: troll_face300 lost connection: Disconnected
+[01:25:38] [Server thread/INFO]: troll_face300 left the game
+[01:25:38] [Server thread/INFO]: [voicechat] Disconnecting client troll_face300
