@@ -114,3 +114,19 @@
 [00:58:15] [Server thread/INFO]: troll_face300 joined the game
 [00:58:16] [Server thread/INFO]: [voicechat] Received secret request of troll_face300 (18)
 [00:58:16] [Server thread/INFO]: [voicechat] Sent secret to troll_face300
+[00:58:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 102b6e53-6dd7-35cc-a9c8-2492845090c8
+[00:58:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 102b6e53-6dd7-35cc-a9c8-2492845090c8
+[00:58:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player troll_face300 (102b6e53-6dd7-35cc-a9c8-2492845090c8) successfully connected to voice chat
+[01:00:15] [Server thread/INFO]: [Not Secure] <troll_face300> ._.
+[01:00:16] [Server thread/INFO]: [Not Secure] <troll_face300> no
+[01:04:38] [Server thread/INFO]: troll_face300 lost connection: Timed out
+[01:04:38] [Server thread/INFO]: troll_face300 left the game
+[01:04:38] [Server thread/INFO]: [voicechat] Disconnecting client troll_face300
+[01:04:50] [Server thread/INFO]: troll_face300[/172.30.212.217:64842] logged in with entity id 18173 at (-75.35407340019717, 244.0, -425.6653790717503)
+[01:04:50] [Server thread/INFO]: troll_face300 joined the game
+[01:04:50] [Server thread/INFO]: [voicechat] Received secret request of troll_face300 (18)
+[01:04:50] [Server thread/INFO]: [voicechat] Sent secret to troll_face300
+[01:04:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 102b6e53-6dd7-35cc-a9c8-2492845090c8
+[01:04:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 102b6e53-6dd7-35cc-a9c8-2492845090c8
+[01:04:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player troll_face300 (102b6e53-6dd7-35cc-a9c8-2492845090c8) successfully connected to voice chat
+[01:05:45] [Server thread/INFO]: troll_face300 was squished too much
