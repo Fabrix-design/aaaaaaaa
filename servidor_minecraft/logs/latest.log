@@ -45,3 +45,6 @@
 [20:51:28] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 172.30.124.31:24454
 [20:54:25] [Server thread/INFO]: DaVIcHoz21[/172.30.41.140:60500] logged in with entity id 10 at (-93.2640938371503, 241.0, -422.69999998807907)
 [20:54:25] [Server thread/INFO]: DaVIcHoz21 joined the game
+[21:03:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-488, y=65, z=-490} class_2338{x=-488, y=63, z=-490}
+[21:04:24] [Server thread/INFO]: troll_face300[/172.30.212.217:55035] logged in with entity id 3551 at (-91.45529041475793, 128.0, -408.3624206266446)
+[21:04:24] [Server thread/INFO]: troll_face300 joined the game
