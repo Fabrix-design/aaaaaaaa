@@ -63,3 +63,15 @@
 [19:21:15] [Server thread/INFO]: troll_face300 lost connection: Disconnected
 [19:21:15] [Server thread/INFO]: troll_face300 left the game
 [19:21:15] [Server thread/INFO]: [voicechat] Disconnecting client troll_face300
+[19:23:38] [Server thread/INFO]: troll_face300[/172.30.212.217:50869] logged in with entity id 3017 at (-505.9311153125347, 64.0, -515.9168280703476)
+[19:23:38] [Server thread/INFO]: troll_face300 joined the game
+[19:23:39] [Server thread/INFO]: [voicechat] Received secret request of troll_face300 (18)
+[19:23:39] [Server thread/INFO]: [voicechat] Sent secret to troll_face300
+[19:23:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 102b6e53-6dd7-35cc-a9c8-2492845090c8
+[19:23:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 102b6e53-6dd7-35cc-a9c8-2492845090c8
+[19:23:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player troll_face300 (102b6e53-6dd7-35cc-a9c8-2492845090c8) successfully connected to voice chat
+[19:28:00] [Server thread/INFO]: troll_face300 lost connection: Disconnected
+[19:28:00] [Server thread/INFO]: troll_face300 left the game
+[19:28:00] [Server thread/INFO]: [voicechat] Disconnecting client troll_face300
+[19:28:15] [Server thread/INFO]: DaVIcHoz21[/172.30.41.140:54687] logged in with entity id 4677 at (-92.00988588114633, 235.0, -422.51363597017064)
+[19:28:15] [Server thread/INFO]: DaVIcHoz21 joined the game
