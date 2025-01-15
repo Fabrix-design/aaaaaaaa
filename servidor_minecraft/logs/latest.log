@@ -130,3 +130,39 @@
 [01:04:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 102b6e53-6dd7-35cc-a9c8-2492845090c8
 [01:04:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player troll_face300 (102b6e53-6dd7-35cc-a9c8-2492845090c8) successfully connected to voice chat
 [01:05:45] [Server thread/INFO]: troll_face300 was squished too much
+[01:09:26] [Server thread/INFO]: [Not Secure] <troll_face300> ese
+[01:09:27] [Server thread/INFO]: [Not Secure] <troll_face300> es mio
+[01:09:39] [Server thread/INFO]: [Not Secure] <troll_face300> y y mi pico
+[01:09:42] [Server thread/INFO]: [Not Secure] <troll_face300> y mi espada
+[01:09:59] [Server thread/INFO]: [Not Secure] <troll_face300> nose
+[01:10:09] [Server thread/INFO]: [Not Secure] <troll_face300> y mis flechas
+[01:10:14] [Server thread/INFO]: [Not Secure] <troll_face300> este?
+[01:10:48] [Server thread/INFO]: [Not Secure] <troll_face300> a
+[01:10:52] [Server thread/INFO]: [Not Secure] <troll_face300> ya dale
+[01:11:20] [Server thread/INFO]: [Not Secure] <troll_face300> ok
+[01:11:24] [Server thread/INFO]: [Not Secure] <troll_face300> igual no tengo flechas
+[01:11:45] [Server thread/INFO]: [Not Secure] <troll_face300> ok
+[01:13:15] [Server thread/INFO]: [Not Secure] <troll_face300> no
+[01:13:28] [Server thread/INFO]: [Not Secure] <troll_face300> ._:
+[01:14:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22651ms or 453 ticks behind
+[01:14:05] [Server thread/WARN]: DaVIcHoz21 moved too quickly! 13.911785175538753,-10.71242265790903,1.8537781481779803
+[01:14:05] [Server thread/INFO]: [Not Secure] <troll_face300> YA
+[01:14:05] [Server thread/INFO]: [Not Secure] <troll_face300> dsfdsfdjsifjsf
+[01:14:42] [Server thread/INFO]: [Not Secure] <troll_face300> me voy a volver a unir
+[01:14:45] [Server thread/INFO]: [Not Secure] <troll_face300> mucho lag
+[01:14:48] [Server thread/INFO]: troll_face300 lost connection: Disconnected
+[01:14:48] [Server thread/INFO]: troll_face300 left the game
+[01:14:48] [Server thread/INFO]: [voicechat] Disconnecting client troll_face300
+[01:15:04] [Server thread/WARN]: DaVIcHoz21 moved too quickly! -1.2871995602237831,-11.856657473837828,-0.9061186649232127
+[01:15:35] [Server thread/INFO]: troll_face300[/172.30.212.217:65092] logged in with entity id 20368 at (-92.51126792762226, 251.0, -422.85726220768134)
+[01:15:35] [Server thread/INFO]: troll_face300 joined the game
+[01:15:35] [Server thread/INFO]: [voicechat] Received secret request of troll_face300 (18)
+[01:15:35] [Server thread/INFO]: [voicechat] Sent secret to troll_face300
+[01:15:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 102b6e53-6dd7-35cc-a9c8-2492845090c8
+[01:15:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 102b6e53-6dd7-35cc-a9c8-2492845090c8
+[01:15:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player troll_face300 (102b6e53-6dd7-35cc-a9c8-2492845090c8) successfully connected to voice chat
+[01:17:08] [Server thread/INFO]: DaVIcHoz21 lost connection: Disconnected
+[01:17:08] [Server thread/INFO]: DaVIcHoz21 left the game
+[01:17:08] [Server thread/INFO]: [voicechat] Disconnecting client DaVIcHoz21
+[01:18:02] [Server thread/INFO]: DaVIcHoz21[/172.30.41.140:52606] logged in with entity id 21333 at (-647.0985734532957, 71.0, -499.80383454369263)
+[01:18:02] [Server thread/INFO]: DaVIcHoz21 joined the game
