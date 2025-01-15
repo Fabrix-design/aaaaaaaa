@@ -47,3 +47,16 @@
 [22:22:15] [Server thread/INFO]: troll_face300 left the game
 [22:22:15] [Server thread/INFO]: [voicechat] Disconnecting client troll_face300
 [22:35:59] [Server thread/INFO]: DaVIcHoz21 fell from a high place
+[22:40:32] [Server thread/INFO]: Stopping the server
+[22:40:32] [Server thread/INFO]: Stopping server
+[22:40:32] [Server thread/INFO]: Saving players
+[22:40:32] [Server thread/INFO]: DaVIcHoz21 lost connection: Server closed
+[22:40:32] [Server thread/INFO]: DaVIcHoz21 left the game
+[22:40:32] [Server thread/INFO]: Saving worlds
+[22:40:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:40:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:40:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:40:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:40:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:40:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:40:32] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
