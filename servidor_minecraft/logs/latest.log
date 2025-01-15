@@ -65,3 +65,16 @@
 [00:11:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 102b6e53-6dd7-35cc-a9c8-2492845090c8
 [00:11:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player troll_face300 (102b6e53-6dd7-35cc-a9c8-2492845090c8) successfully connected to voice chat
 [00:14:03] [Server thread/INFO]: troll_face300 was slain by Zombified Piglin
+[00:19:09] [Server thread/INFO]: DaVIcHoz21 was slain by Zombified Piglin
+[00:19:33] [Server thread/INFO]: troll_face300 lost connection: Disconnected
+[00:19:33] [Server thread/INFO]: troll_face300 left the game
+[00:19:33] [Server thread/INFO]: [voicechat] Disconnecting client troll_face300
+[00:19:44] [Server thread/INFO]: troll_face300[/172.30.212.217:64360] logged in with entity id 4792 at (-91.91918573971039, 237.0, -422.52271036238534)
+[00:19:44] [Server thread/INFO]: troll_face300 joined the game
+[00:19:44] [Server thread/INFO]: [voicechat] Received secret request of troll_face300 (18)
+[00:19:44] [Server thread/INFO]: [voicechat] Sent secret to troll_face300
+[00:19:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 102b6e53-6dd7-35cc-a9c8-2492845090c8
+[00:19:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 102b6e53-6dd7-35cc-a9c8-2492845090c8
+[00:19:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player troll_face300 (102b6e53-6dd7-35cc-a9c8-2492845090c8) successfully connected to voice chat
+[00:20:11] [Server thread/INFO]: troll_face300 was slain by Zombified Piglin
+[00:22:37] [Server thread/INFO]: DaVIcHoz21 was doomed to fall by Zombified Piglin
