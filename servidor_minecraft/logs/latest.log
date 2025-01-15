@@ -92,3 +92,25 @@
 [00:45:00] [Server thread/INFO]: troll_face300 was shot by Skeleton
 [00:46:12] [Server thread/INFO]: [Not Secure] <troll_face300> si
 [00:48:03] [Server thread/INFO]: [Not Secure] <troll_face300> si
+[00:48:50] [Server thread/INFO]: [Not Secure] <troll_face300> si
+[00:49:13] [Server thread/INFO]: [Not Secure] <troll_face300> si
+[00:49:35] [Server thread/INFO]: [Not Secure] <troll_face300> ya pon las vagonetas
+[00:51:15] [Server thread/INFO]: [Not Secure] <troll_face300> a
+[00:51:37] [Server thread/INFO]: [Not Secure] <troll_face300> me los devuelves
+[00:53:42] [Server thread/INFO]: [Not Secure] <troll_face300> casi me muero
+[00:53:43] [Server thread/INFO]: [Not Secure] <troll_face300> XDDD
+[00:55:44] [Server thread/INFO]: DaVIcHoz21 lost connection: Disconnected
+[00:55:44] [Server thread/INFO]: DaVIcHoz21 left the game
+[00:55:44] [Server thread/INFO]: [voicechat] Disconnecting client DaVIcHoz21
+[00:55:58] [Server thread/INFO]: DaVIcHoz21[/172.30.41.140:51212] logged in with entity id 15241 at (-94.35815943411347, 242.0, -422.8394344991457)
+[00:55:58] [Server thread/INFO]: DaVIcHoz21 joined the game
+[00:57:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 102b6e53-6dd7-35cc-a9c8-2492845090c8 timed out
+[00:57:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player troll_face300
+[00:57:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to troll_face300
+[00:58:04] [Server thread/INFO]: troll_face300 lost connection: Disconnected
+[00:58:04] [Server thread/INFO]: troll_face300 left the game
+[00:58:04] [Server thread/INFO]: [voicechat] Disconnecting client troll_face300
+[00:58:15] [Server thread/INFO]: troll_face300[/172.30.212.217:64775] logged in with entity id 15561 at (-92.66719238371228, 251.02159996271132, -422.79998166029964)
+[00:58:15] [Server thread/INFO]: troll_face300 joined the game
+[00:58:16] [Server thread/INFO]: [voicechat] Received secret request of troll_face300 (18)
+[00:58:16] [Server thread/INFO]: [voicechat] Sent secret to troll_face300
