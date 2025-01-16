@@ -4576,6 +4576,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2025-01-16 19:12:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2025-01-16 18:49:37 +0000"
@@ -4593,6 +4599,12 @@
       "has_cactus": "2025-01-16 18:49:33 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:white": "2025-01-16 19:07:06 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3955
 }
