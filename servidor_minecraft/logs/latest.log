@@ -42,3 +42,6 @@
 [15:24:19] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 172.30.124.31:24454
 [15:26:38] [Server thread/INFO]: troll_face300[/172.30.212.217:55982] logged in with entity id 10 at (-816.9206838119472, 90.0, 255.18947401108247)
 [15:26:38] [Server thread/INFO]: troll_face300 joined the game
+[15:52:10] [Server thread/INFO]: troll_face300 lost connection: Disconnected
+[15:52:10] [Server thread/INFO]: troll_face300 left the game
+[15:52:10] [Server thread/INFO]: [voicechat] Disconnecting client troll_face300
