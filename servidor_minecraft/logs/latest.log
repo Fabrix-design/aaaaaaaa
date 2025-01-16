@@ -1,5 +1,5 @@
-[16:59:45] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
-[16:59:45] [main/INFO]: Loading 10 mods:
+[17:45:57] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
+[17:45:57] [main/INFO]: Loading 10 mods:
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
 	- java 21
@@ -11,59 +11,38 @@
 	   |-- fabric-lifecycle-events-v1 2.3.12+6c1df3606a
 	   |-- fabric-networking-api-v1 4.2.2+60c3209b6a
 	   \-- fabric-resource-loader-v0 1.3.0+565991296a
-[16:59:45] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/aaaaaaaa/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[16:59:45] [main/INFO]: Compatibility level set to JAVA_17
-[16:59:47] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[16:59:54] [main/INFO]: [voicechat] Compatibility version 18
-[16:59:54] [main/INFO]: [voicechat] Loading plugins
-[16:59:54] [main/INFO]: [voicechat] Loaded 0 plugin(s)
-[16:59:54] [main/INFO]: [voicechat] Initializing plugins
-[16:59:54] [main/INFO]: [voicechat] Initialized 0 plugin(s)
-[16:59:54] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:59:56] [main/INFO]: Loaded 1290 recipes
-[16:59:56] [main/INFO]: Loaded 1399 advancements
-[16:59:57] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[16:59:57] [Server thread/INFO]: Loading properties
-[16:59:57] [Server thread/INFO]: Default game type: SURVIVAL
-[16:59:57] [Server thread/INFO]: Generating keypair
-[16:59:57] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:59:57] [Server thread/INFO]: Using epoll channel type
-[16:59:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:59:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:59:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:59:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:59:57] [Server thread/INFO]: Preparing level "world"
-[17:00:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:00:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:00:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:00:03] [Worker-Main-2/INFO]: Preparing spawn area: 46%
-[17:00:03] [Server thread/INFO]: Time elapsed: 1175 ms
-[17:00:03] [Server thread/INFO]: Done (5.928s)! For help, type "help"
-[17:00:03] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[17:00:03] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 172.30.124.31:24454
-[17:01:18] [Server thread/INFO]: DaVIcHoz21[/172.30.41.140:54939] logged in with entity id 9 at (-585.8582882536693, 72.0, 220.1639466290436)
-[17:01:18] [Server thread/INFO]: DaVIcHoz21 joined the game
-[17:01:20] [Server thread/WARN]: UUID of added entity already exists: class_1439['Iron Golem'/218, l='ServerLevel[world]', x=-441.76, y=68.00, z=179.12]
-[17:01:30] [Server thread/INFO]: troll_face300[/172.30.212.217:57336] logged in with entity id 365 at (-807.8018780362962, 63.0, 268.9953969248559)
-[17:01:30] [Server thread/INFO]: troll_face300 joined the game
-[17:02:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-596, y=74, z=227} class_2338{x=-597, y=72, z=228}
-[17:02:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-596, y=74, z=227} class_2338{x=-597, y=72, z=228}
-[17:05:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-600, y=73, z=286} class_2338{x=-601, y=72, z=288}
-[17:05:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-600, y=73, z=286} class_2338{x=-601, y=72, z=288}
-[17:05:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-600, y=73, z=286} class_2338{x=-601, y=72, z=288}
-[17:05:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-600, y=73, z=286} class_2338{x=-601, y=72, z=288}
-[17:05:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-600, y=73, z=286} class_2338{x=-601, y=72, z=288}
-[17:05:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-600, y=73, z=286} class_2338{x=-601, y=72, z=288}
-[17:05:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-607, y=73, z=282} class_2338{x=-608, y=72, z=282}
-[17:05:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-607, y=73, z=282} class_2338{x=-608, y=72, z=281}
-[17:05:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-607, y=74, z=278} class_2338{x=-608, y=73, z=277}
-[17:05:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-609, y=73, z=276} class_2338{x=-608, y=72, z=276}
-[17:05:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-609, y=73, z=276} class_2338{x=-608, y=72, z=276}
-[17:05:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-609, y=73, z=276} class_2338{x=-608, y=72, z=276}
-[17:05:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-609, y=73, z=276} class_2338{x=-608, y=72, z=276}
-[17:13:01] [Server thread/WARN]: DaVIcHoz21 moved too quickly! 9.078112348686318,-3.0442235775735327,-15.357985007028411
-[17:18:13] [Server thread/WARN]: DaVIcHoz21 moved too quickly! -5.061506036900596,17.171035267085628,-2.805705430784201
-[17:19:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-817, y=91, z=270} class_2338{x=-817, y=90, z=260}
-[17:20:38] [Server thread/WARN]: DaVIcHoz21 moved too quickly! 0.6104336003272692,16.623091486716454,8.999866156637154
-[17:25:57] [Server thread/WARN]: DaVIcHoz21 moved too quickly! -2.7971147310365723,17.78411321085042,-1.4316637110094064
-[17:32:53] [Server thread/WARN]: DaVIcHoz21 moved too quickly! -1.708004462293161,7.796012185054579,-6.591830963458051
+[17:45:58] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/aaaaaaaa/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[17:45:58] [main/INFO]: Compatibility level set to JAVA_17
+[17:45:59] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[17:46:06] [main/INFO]: [voicechat] Compatibility version 18
+[17:46:06] [main/INFO]: [voicechat] Loading plugins
+[17:46:06] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[17:46:06] [main/INFO]: [voicechat] Initializing plugins
+[17:46:06] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[17:46:06] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:46:09] [main/INFO]: Loaded 1290 recipes
+[17:46:09] [main/INFO]: Loaded 1399 advancements
+[17:46:09] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[17:46:09] [Server thread/INFO]: Loading properties
+[17:46:09] [Server thread/INFO]: Default game type: SURVIVAL
+[17:46:09] [Server thread/INFO]: Generating keypair
+[17:46:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:46:10] [Server thread/INFO]: Using epoll channel type
+[17:46:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:46:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:46:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:46:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:46:10] [Server thread/INFO]: Preparing level "world"
+[17:46:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:46:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:46:15] [Worker-Main-2/INFO]: Preparing spawn area: 10%
+[17:46:15] [Server thread/INFO]: Time elapsed: 662 ms
+[17:46:15] [Server thread/INFO]: Done (4.908s)! For help, type "help"
+[17:46:15] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[17:46:15] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 172.30.124.31:24454
+[17:48:13] [Server thread/INFO]: DaVIcHoz21[/172.30.41.140:55641] logged in with entity id 9 at (-808.3158203723875, 63.0, 269.2805084039528)
+[17:48:13] [Server thread/INFO]: DaVIcHoz21 joined the game
+[17:48:13] [Server thread/INFO]: troll_face300[/172.30.212.217:58051] logged in with entity id 10 at (-918.9554826212116, 79.72878853889424, 481.3396031810757)
+[17:48:13] [Server thread/INFO]: troll_face300 joined the game
+[17:50:39] [Server thread/WARN]: troll_face300 moved too quickly! -9.975262460854651,-3.132072905889217,14.3177985930825
+[17:55:56] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> -1442/9/1456
