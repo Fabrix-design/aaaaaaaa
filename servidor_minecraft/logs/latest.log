@@ -1,5 +1,5 @@
-[01:47:39] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
-[01:47:39] [main/INFO]: Loading 10 mods:
+[14:42:06] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
+[14:42:06] [main/INFO]: Loading 10 mods:
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
 	- java 21
@@ -11,48 +11,38 @@
 	   |-- fabric-lifecycle-events-v1 2.3.12+6c1df3606a
 	   |-- fabric-networking-api-v1 4.2.2+60c3209b6a
 	   \-- fabric-resource-loader-v0 1.3.0+565991296a
-[01:47:39] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/aaaaaaaa/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[01:47:39] [main/INFO]: Compatibility level set to JAVA_17
-[01:47:41] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[01:47:48] [main/INFO]: [voicechat] Compatibility version 18
-[01:47:48] [main/INFO]: [voicechat] Loading plugins
-[01:47:48] [main/INFO]: [voicechat] Loaded 0 plugin(s)
-[01:47:48] [main/INFO]: [voicechat] Initializing plugins
-[01:47:48] [main/INFO]: [voicechat] Initialized 0 plugin(s)
-[01:47:48] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:47:50] [main/INFO]: Loaded 1290 recipes
-[01:47:51] [main/INFO]: Loaded 1399 advancements
-[01:47:51] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[01:47:51] [Server thread/INFO]: Loading properties
-[01:47:51] [Server thread/INFO]: Default game type: SURVIVAL
-[01:47:51] [Server thread/INFO]: Generating keypair
-[01:47:51] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:47:51] [Server thread/INFO]: Using epoll channel type
-[01:47:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:47:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:47:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:47:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:47:52] [Server thread/INFO]: Preparing level "world"
-[01:47:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:47:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:47:55] [Server thread/INFO]: Time elapsed: 530 ms
-[01:47:55] [Server thread/INFO]: Done (3.295s)! For help, type "help"
-[01:47:55] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[01:47:55] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 172.30.124.31:24454
-[01:51:40] [Server thread/INFO]: troll_face300[/172.30.212.217:53927] logged in with entity id 10 at (-663.5488578477393, 66.0, -569.2362048098956)
-[01:51:40] [Server thread/INFO]: troll_face300 joined the game
-[01:55:14] [Server thread/INFO]: troll_face300 lost connection: Disconnected
-[01:55:14] [Server thread/INFO]: troll_face300 left the game
-[01:55:14] [Server thread/INFO]: [voicechat] Disconnecting client troll_face300
-[01:57:44] [Server thread/INFO]: DaVIcHoz21[/172.30.41.140:64486] logged in with entity id 1671 at (-623.6999999880791, 64.0, -485.69999998807907)
-[01:57:44] [Server thread/INFO]: DaVIcHoz21 joined the game
-[02:00:39] [Server thread/INFO]: DaVIcHoz21 lost connection: Disconnected
-[02:00:39] [Server thread/INFO]: DaVIcHoz21 left the game
-[02:00:39] [Server thread/INFO]: [voicechat] Disconnecting client DaVIcHoz21
-[02:25:28] [Server thread/INFO]: troll_face300[/172.30.212.217:54372] logged in with entity id 2407 at (-549.123225053546, 70.0, -761.8759468949218)
-[02:25:28] [Server thread/INFO]: troll_face300 joined the game
-[02:31:46] [Server thread/INFO]: troll_face300 lost connection: Disconnected
-[02:31:46] [Server thread/INFO]: troll_face300 left the game
-[02:31:46] [Server thread/INFO]: [voicechat] Disconnecting client troll_face300
-[02:33:41] [Server thread/INFO]: troll_face300[/172.30.212.217:54497] logged in with entity id 5237 at (-469.1756842781947, 67.0, -535.9068595378884)
-[02:33:41] [Server thread/INFO]: troll_face300 joined the game
+[14:42:06] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/aaaaaaaa/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[14:42:06] [main/INFO]: Compatibility level set to JAVA_17
+[14:42:07] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[14:42:13] [main/INFO]: [voicechat] Compatibility version 18
+[14:42:13] [main/INFO]: [voicechat] Loading plugins
+[14:42:13] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[14:42:13] [main/INFO]: [voicechat] Initializing plugins
+[14:42:13] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[14:42:13] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:42:15] [main/INFO]: Loaded 1290 recipes
+[14:42:15] [main/INFO]: Loaded 1399 advancements
+[14:42:15] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[14:42:15] [Server thread/INFO]: Loading properties
+[14:42:15] [Server thread/INFO]: Default game type: SURVIVAL
+[14:42:15] [Server thread/INFO]: Generating keypair
+[14:42:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:42:15] [Server thread/INFO]: Using epoll channel type
+[14:42:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:42:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:42:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:42:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:42:16] [Server thread/INFO]: Preparing level "world"
+[14:42:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:42:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:42:18] [Server thread/INFO]: Time elapsed: 453 ms
+[14:42:18] [Server thread/INFO]: Done (2.956s)! For help, type "help"
+[14:42:18] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[14:42:18] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 172.30.124.31:24454
+[14:43:20] [Server thread/INFO]: troll_face300[/172.30.212.217:50241] logged in with entity id 10 at (-476.77676097325065, 65.17675927506424, -521.7169406969692)
+[14:43:20] [Server thread/INFO]: troll_face300 joined the game
+[14:53:41] [Server thread/INFO]: troll_face300 lost connection: Disconnected
+[14:53:41] [Server thread/INFO]: troll_face300 left the game
+[14:53:41] [Server thread/INFO]: [voicechat] Disconnecting client troll_face300
+[14:56:25] [Server thread/INFO]: troll_face300[/172.30.212.217:55536] logged in with entity id 4173 at (-808.0320596832174, 90.0, 266.5504425462116)
+[14:56:25] [Server thread/INFO]: troll_face300 joined the game
