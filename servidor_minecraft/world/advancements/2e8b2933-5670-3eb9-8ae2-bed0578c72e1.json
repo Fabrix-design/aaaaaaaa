@@ -36,8 +36,11 @@
       "minecraft:snowy_plains": "2024-12-06 23:51:39 +0000",
       "minecraft:stony_shore": "2025-01-12 00:17:33 +0000",
       "minecraft:dripstone_caves": "2024-12-07 00:20:37 +0000",
+      "minecraft:snowy_taiga": "2025-01-16 18:48:06 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-12 00:00:48 +0000",
+      "minecraft:deep_dark": "2025-01-16 18:54:03 +0000",
       "minecraft:swamp": "2025-01-11 23:39:53 +0000",
+      "minecraft:grove": "2025-01-16 18:50:58 +0000",
       "minecraft:meadow": "2024-12-06 23:53:46 +0000",
       "minecraft:windswept_gravelly_hills": "2025-01-11 23:38:06 +0000",
       "minecraft:savanna": "2025-01-11 23:50:22 +0000",
@@ -4569,6 +4572,24 @@
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_honeycomb": {
     "criteria": {
       "has_oxidized_cut_copper": "2025-01-15 21:42:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-01-16 18:49:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-01-16 18:55:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-01-16 18:49:33 +0000"
     },
     "done": true
   },
